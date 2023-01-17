@@ -1,4 +1,3 @@
-tesserocr
+pytesseract
 opencv-python
-PIL
-numpy
+pandas
