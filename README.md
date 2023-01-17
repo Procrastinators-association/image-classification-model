@@ -5,7 +5,11 @@ Image classification and(or) clusterisation model for UrFU hakaton
 * Используемая модель: tesseract 3(pytesseract)
 * Язык текста: eng
 
-## Локальный запуск модели
+
+## Установка и запуск
+
+* Установить tesseract: https://tesseract-ocr.github.io/tessdoc/Installation.html
+* python=3.8
 
 `python main.py --file <filename/path_to_folder>`
 
