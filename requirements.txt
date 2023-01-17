@@ -1,0 +1,4 @@
+tesserocr
+opencv-python
+PIL
+numpy
