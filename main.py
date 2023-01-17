@@ -19,7 +19,6 @@ args = parser.parse_args()
 if args.file is None:
     print('Error, cannot read input file: No such file or directory'); sys.exit()
 
-print(args.file)
 # get the path/directory
 im_box = ['X00016469623', 'X00016469669'] # segmenation examples
 folder_dir = args.file; box_dir = args.file + '/box'; vis_box = args.file + '/vis_box'
